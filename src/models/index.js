@@ -1,4 +1,3 @@
-import { Users } from './Users';
+import Users from './Users.js';
 
-export { Users };
-
+export default { Users };
